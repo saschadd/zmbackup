@@ -33,7 +33,7 @@ After that, download and unpack a stable release of zmbackup in "Release" sectio
 git clone https://github.com/lucascbeyeler/zmbackup.git
 ```
 
-Enter inside the folder zmbackup and execute the script install.sh. Follow the instructions and then, to validate, execute the command "zmbackup -v" as zimbra user. The command should execute correctly:
+Enter inside the folder zmbackup and execute the script zmbackup_wizard. Follow the instructions and then, to validate, execute the command "zmbackup -v" as zimbra user. The command should execute correctly:
 
 ```
 $ zmbackup -v
